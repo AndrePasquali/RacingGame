@@ -1,4 +1,4 @@
-#Infinite Racing Game 
+INFINITE RACING GAME - LOW POLY STYLE
 
 Work in Progress
 
